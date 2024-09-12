@@ -1,4 +1,11 @@
+%%% files
+*.Rhistory
+*.Rproj.user
+*.RData
+*.Ruserdata
+*.DS_Store
+*_.aux
+
+%%% gated data
+data.rds
 .Rproj.user
-.Rhistory
-.RData
-.Ruserdata
